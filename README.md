@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a700f5,100:80469b&height=180&text=Hello%20World!%20I'm%20PUHWA&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 </p>
 
-<h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 Hello World! </h2>
+<h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👋 자기소개 / Introduce </h2>
 <p align="center" style="font-weight: 700; font-size: 15px; color: #282d33;">
   안녕하세요! 대학교에 다니면서 공부하고 있는 개발자입니다!
 </p>
