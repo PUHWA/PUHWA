@@ -33,5 +33,5 @@
 
 <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PUHWA&show_icons=true&theme=tokyonight&title_color=a700f5&icon_color=a700f5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PUHWA&show_icons=true&theme=tokyonight&title_color=a700f5&icon_color=#ffffff" />
 </p>
