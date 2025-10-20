@@ -25,11 +25,6 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/PUHWA">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/PUHWA&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-  </a>
-</p>
 
 <h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
 <p align="center">
