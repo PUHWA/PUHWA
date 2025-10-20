@@ -7,7 +7,7 @@
   안녕하세요! 대학교에 다니면서 공부하고 있는 개발자입니다!
 </p>
 
-<h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 기술 스택/Tech Stacks </h2>
+<h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 기술 스택 / Tech Stacks </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
@@ -19,14 +19,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </p>
 
-<h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 연락/Contact Me </h2>
+<h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 연락 / Contact Me </h2>
 <p align="center">
   <a href="mailto:puhwa4120@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </p>
 
-<h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 통계/Stats </h2>
+<h2 align="center" style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 통계 / Stats </h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PUHWA&show_icons=true&bg_color=ffffff&title_color=a700f5&text_color=000000&icon_color=a700f5&border_color=d8dee4" />
 </p>
